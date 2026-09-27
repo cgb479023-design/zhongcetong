@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 128" width="400" height="128" role="img" aria-label="众策通 标志（中文版）">
+  <title>众策通 · 中文版</title>
+  <defs>
+    <linearGradient id="zctBrandZ" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123A72"/>
+      <stop offset="0.55" stop-color="#1A4E9E"/>
+      <stop offset="1" stop-color="#2064C9"/>
+    </linearGradient>
+    <linearGradient id="zctGoldZ" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#EFA318"/>
+      <stop offset="1" stop-color="#FFD26B"/>
+    </linearGradient>
+    <clipPath id="zctMarkClipZ">
+      <rect x="0" y="0" width="128" height="128" rx="30" ry="30"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    <rect x="0" y="0" width="128" height="128" rx="30" ry="30" fill="url(#zctBrandZ)"/>
+    <g clip-path="url(#zctMarkClipZ)">
+      <polygon points="0,0 68,0 0,84" fill="#ffffff" opacity="0.07"/>
+      <polygon points="128,128 128,60 52,128" fill="#04173a" opacity="0.10"/>
+    </g>
+    <rect x="32" y="72" width="14" height="34" rx="7" fill="#ffffff" opacity="0.94"/>
+    <rect x="55" y="56" width="14" height="50" rx="7" fill="#ffffff" opacity="0.94"/>
+    <rect x="78" y="40" width="14" height="66" rx="7" fill="#ffffff" opacity="0.94"/>
+    <path d="M30 72.3 L96 26.3" stroke="url(#zctGoldZ)" stroke-width="9" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <text x="160" y="72" textLength="200" lengthAdjust="spacing"
+        font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Source Han Sans SC','Noto Sans SC',sans-serif"
+        font-size="62" font-weight="800" letter-spacing="4" fill="#0F2E5C">众策通</text>
+
+  <text x="160" y="104" textLength="200" lengthAdjust="spacing"
+        font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Source Han Sans SC','Noto Sans SC',sans-serif"
+        font-size="19" font-weight="500" letter-spacing="5" fill="#64748B">科创政策智能管家</text>
+</svg>

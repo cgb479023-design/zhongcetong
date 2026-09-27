@@ -1,0 +1,141 @@
+{
+  "description": "众策通 ZhongceTong — 科创政策智能管家 / Policy Intelligence Hub · production system for science & technology funding consultancies",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 7222,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "tweets-zh.md",
+      "size": 4754,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "tweets-en.md",
+      "size": 5923,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "assets/logo-primary.svg",
+      "size": 2048,
+      "encoding": "utf-8",
+      "label": "主标（中英）"
+    },
+    {
+      "path": "assets/logo-zh.svg",
+      "size": 1964,
+      "encoding": "utf-8",
+      "label": "中文横版"
+    },
+    {
+      "path": "assets/logo-en.svg",
+      "size": 1872,
+      "encoding": "utf-8",
+      "label": "英文横版"
+    },
+    {
+      "path": "assets/logo-mark.svg",
+      "size": 1583,
+      "encoding": "utf-8",
+      "label": "图标"
+    },
+    {
+      "path": "assets/logo-reverse.svg",
+      "size": 1907,
+      "encoding": "utf-8",
+      "label": "反白版"
+    },
+    {
+      "path": "assets/favicon-32.png",
+      "size": 1591,
+      "encoding": "base64",
+      "label": "favicon"
+    },
+    {
+      "path": "shots/01-login.png",
+      "size": 108469,
+      "encoding": "base64",
+      "label": "登录 / 主界面"
+    },
+    {
+      "path": "shots/02-dashboard.png",
+      "size": 108510,
+      "encoding": "base64",
+      "label": "工作台"
+    },
+    {
+      "path": "shots/03-customers.png",
+      "size": 115533,
+      "encoding": "base64",
+      "label": "客户管理"
+    },
+    {
+      "path": "shots/04-match.png",
+      "size": 58245,
+      "encoding": "base64",
+      "label": "政策智能匹配"
+    },
+    {
+      "path": "shots/05-match-result.png",
+      "size": 227899,
+      "encoding": "base64",
+      "label": "匹配结果：可报 / 口径较粗 / 规则数"
+    },
+    {
+      "path": "shots/06-policy-detail.png",
+      "size": 127927,
+      "encoding": "base64",
+      "label": "政策详情"
+    },
+    {
+      "path": "shots/07-projects.png",
+      "size": 138904,
+      "encoding": "base64",
+      "label": "项目台账"
+    },
+    {
+      "path": "shots/08-docgen.png",
+      "size": 83849,
+      "encoding": "base64",
+      "label": "文档生成"
+    },
+    {
+      "path": "shots/09-command-impact.png",
+      "size": 211215,
+      "encoding": "base64",
+      "label": "指挥中心：写操作影响清单"
+    },
+    {
+      "path": "shots/10-match-ai.png",
+      "size": 133728,
+      "encoding": "base64",
+      "label": "AI 解读匹配结果"
+    },
+    {
+      "path": "shots/11-audit-log.png",
+      "size": 128800,
+      "encoding": "base64",
+      "label": "审计日志"
+    },
+    {
+      "path": "shots/12-completeness.png",
+      "size": 173795,
+      "encoding": "base64",
+      "label": "客户档案完整度"
+    },
+    {
+      "path": "shots/13-client-portal.png",
+      "size": 73189,
+      "encoding": "base64",
+      "label": "客户端门户"
+    },
+    {
+      "path": "shots/14-dashboard-en.png",
+      "size": 115508,
+      "encoding": "base64",
+      "label": "英文界面"
+    }
+  ],
+  "missing": []
+}

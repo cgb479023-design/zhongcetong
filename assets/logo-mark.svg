@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="众策通 ZhongceTong 图标">
+  <title>众策通 · 图标 Mark</title>
+  <defs>
+    <linearGradient id="zctBrand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123A72"/>
+      <stop offset="0.55" stop-color="#1A4E9E"/>
+      <stop offset="1" stop-color="#2064C9"/>
+    </linearGradient>
+    <linearGradient id="zctGold" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#EFA318"/>
+      <stop offset="1" stop-color="#FFD26B"/>
+    </linearGradient>
+    <clipPath id="zctMarkClip">
+      <rect x="0" y="0" width="128" height="128" rx="30" ry="30"/>
+    </clipPath>
+  </defs>
+
+  <!-- 徽章底 -->
+  <rect x="0" y="0" width="128" height="128" rx="30" ry="30" fill="url(#zctBrand)"/>
+
+  <!-- 内高光，增加现代质感 -->
+  <g clip-path="url(#zctMarkClip)">
+    <polygon points="0,0 68,0 0,84" fill="#ffffff" opacity="0.07"/>
+    <polygon points="128,128 128,60 52,128" fill="#04173a" opacity="0.10"/>
+  </g>
+
+  <!-- 三条业务柱：众（多客户 / 多项目并行），底部对齐、递进升高 -->
+  <rect x="32" y="72" width="14" height="34" rx="7" fill="#ffffff" opacity="0.94"/>
+  <rect x="55" y="56" width="14" height="50" rx="7" fill="#ffffff" opacity="0.94"/>
+  <rect x="78" y="40" width="14" height="66" rx="7" fill="#ffffff" opacity="0.94"/>
+
+  <!-- 趋势线：政策贯穿 + 资质培育上行 = 通 -->
+  <path d="M30 72.3 L96 26.3" stroke="url(#zctGold)" stroke-width="9" stroke-linecap="round" fill="none"/>
+</svg>
